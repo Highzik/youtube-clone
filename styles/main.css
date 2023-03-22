@@ -1,3 +1,11 @@
 .video-preview{
   width:300px;
+  display:inline-block;
+  vertical-align:top;
+}
+.img-section{
+  width:300px;
+}
+.search-bar{
+  display:block;
 }
