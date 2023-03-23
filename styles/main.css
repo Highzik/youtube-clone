@@ -15,7 +15,7 @@ p {
   font-size: 14px;
   font-weight: 500;
   line-height: 23px;
-  margin-bottom: 7px;
+  margin-bottom: 12px;
 }
 
 .video-author,
@@ -23,6 +23,9 @@ p {
   font-size: 12px;
   font-weight: 500;
   color: rgb(96, 96, 96);
+}
+
+.video-author {
   margin-bottom: 7px;
 }
 
