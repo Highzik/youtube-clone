@@ -1,11 +1,43 @@
-.video-preview{
-  width:300px;
-  display:inline-block;
-  vertical-align:top;
+p {
+  font-family: roboto, Arial;
 }
-.img-section{
-  width:300px;
+
+.video-preview {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
 }
-.search-bar{
-  display:block;
+
+.video-title {
+  margin-top: 0;
+  font-size: 14px;
+  font-weight:
+}
+
+.img-section {
+  width: 300px;
+}
+
+.search-bar {
+  display: block;
+}
+
+.channel-picture {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.video-info {
+  display: inline-block;
+  width: 230px;
+}
+
+.profile-picture {
+  width: 40px;
+  border-radius: 50px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
 }
